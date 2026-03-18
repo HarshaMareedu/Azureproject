@@ -1,0 +1,9 @@
+{
+	"name": "dfazureprojectharsha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61cd30c6-de51-4107-93c2-7873a7f22a09",
+		"tenantId": "3a66bf5f-0da0-420d-abe3-c53898175cc0"
+	}
+}
